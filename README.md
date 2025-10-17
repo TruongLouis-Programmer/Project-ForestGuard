@@ -1,9 +1,6 @@
 # **TerraNodes**
 
 **Decentralized Ecological Intelligence for a Sustainable Planet**
-**Version:** 2.0
-**Date:** October 17th 2025
-**Author:** TerraNodes Research & Development Team
 
 ---
 
