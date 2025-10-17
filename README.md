@@ -6,7 +6,7 @@
 
 ## **1. Abstract**
 
-**TerraNodes** introduces a decentralized, solar-powered environmental intelligence network that transforms ecological preservation into an economic incentive. By combining ultra-efficient sensor technology, secure mesh networking, and a blockchain-based Proof-of-Environment (PoE 2.0) consensus, TerraNodes enables real-time monitoring of forests, oceans, and natural reserves — while minting **ECO tokens** as verifiable rewards for positive ecological outcomes.
+**TerraNodes** introduces a decentralized, solar-powered environmental intelligence network that transforms ecological preservation into an economic incentive. By combining ultra-efficient sensor technology, secure mesh networking, and a blockchain-based Proof-of-Environment (PoE) consensus, TerraNodes enables real-time monitoring of forests, oceans, and natural reserves — while minting **ECO tokens** as verifiable rewards for positive ecological outcomes.
 
 Unlike traditional monitoring programs that depend on expensive centralized infrastructure, TerraNodes offers a **self-sustaining, tamper-resistant, and scalable model** where governments, organizations, and citizens earn value by maintaining environmental health. Through a fusion of IoT efficiency, renewable energy, and cryptographic trust, TerraNodes aims to create a new global standard for ecological accountability and incentive-based sustainability.
 
@@ -32,7 +32,7 @@ TerraNodes operates as a **multi-tier ecological monitoring network**, composed 
 
 Each node layer contributes to a **self-organizing, fault-tolerant mesh** that operates even in off-grid environments. Nodes communicate using long-range, low-power radio, forming a distributed fabric that can scale from **one reserve to entire countries**.
 
-At the network’s core lies the **Proof-of-Environment (PoE 2.0)** mechanism, which transforms verified ecological data into **ECO tokens** — providing transparent and auditable proof of conservation success.
+At the network’s core lies the **Proof-of-Environment (PoE)** mechanism, which transforms verified ecological data into **ECO tokens** — providing transparent and auditable proof of conservation success.
 
 ---
 
@@ -42,7 +42,7 @@ Sustainability begins at the hardware level. TerraNodes are engineered for **mul
 
 Each **LeafNode** integrates:
 
-* A solar cell and micro-battery designed for **five years of continuous operation** with near-zero maintenance.
+* A solar cell and micro-battery designed for **20 years of continuous operation** with near-zero maintenance.
 * A low-power MCU with **adaptive sampling algorithms** that adjust activity based on environmental stability.
 * **Wake-on-Radio (WuR)** modules that keep nodes asleep until necessary, reducing idle power consumption by up to 98%.
 * A privacy-preserving sensor suite that captures environmental features without storing or transmitting raw audio or imagery.
@@ -72,9 +72,9 @@ All messages are signed and time-stamped at the source, ensuring **cryptographic
 
 ---
 
-## **6. Proof-of-Environment (PoE 2.0) and ECO Token Model**
+## **6. Proof-of-Environment (PoE) and ECO Token Model**
 
-At the heart of TerraNodes lies the **Proof-of-Environment (PoE 2.0)** blockchain — a lightweight, eco-friendly ledger that verifies environmental data integrity and mints **ECO tokens** accordingly.
+At the heart of TerraNodes lies the **Proof-of-Environment (PoE)** blockchain — a lightweight, eco-friendly ledger that verifies environmental data integrity and mints **ECO tokens** accordingly.
 
 ### Core PoE Principles
 
