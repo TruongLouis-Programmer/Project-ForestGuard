@@ -1,4 +1,4 @@
-# **TerraNodes
+# TerraNodes
 
 **Decentralized Ecological Intelligence for a Sustainable Planet**
 **Version:** 2.0
