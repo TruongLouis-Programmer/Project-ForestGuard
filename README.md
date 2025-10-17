@@ -144,6 +144,15 @@ Scaling globally, a network of **1 million LeafNodes** could cover major biodive
 
 ---
 
+## **11. Conclusion**
+
+TerraNodes represents a new paradigm in environmental stewardship — a **decentralized ecological intelligence network** that rewards transparency, resilience, and sustainability.  
+By combining renewable-powered IoT, secure mesh networking, and blockchain economics, TerraNodes turns conservation into a **verifiable and profitable global practice**.
+
+Governments can now **earn ECO tokens** by protecting forests, maintaining biodiversity, and 
+
+---
+
 ## **10. Conclusion**
 
 TerraNodes represents a new paradigm in environmental stewardship — a **decentralized ecological intelligence network** that rewards transparency, resilience, and sustainability. By combining renewable-powered IoT, secure mesh networking, and blockchain economics, TerraNodes turns conservation into a **verifiable and profitable global practice**.
