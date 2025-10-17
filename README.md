@@ -138,7 +138,7 @@ TerraNodes can be deployed incrementally — from local forest zones to nationwi
 | System             | Cost per km² | Maintenance | Detection Latency | Tamper Resistance |
 | ------------------ | ------------ | ----------- | ----------------- | ----------------- |
 | Traditional Towers | $3,000+      | High        | 30–60 min         | Low               |
-| TerraNodes         | $350         | Near-zero   | ≤10 min           | Very High         |
+| TerraNodes         | $20          | Near-zero   | ≤10 min           | Very High         |
 
 Scaling globally, a network of **1 million LeafNodes** could cover major biodiversity regions worldwide at a fraction of current monitoring costs — while issuing quantifiable, blockchain-backed sustainability rewards.
 
