@@ -34,7 +34,7 @@ This whitepaper documents ForestGuard's architecture, security model, Proof-of-E
 
 - **Blockchain & Smart Contracts** — A lightweight PoE blockchain that stores attested environmental data, verifies cross-node consistency and external audits, and mints ECO tokens according to published rules.
 
-- **Audit & Validation** — Satellite, drone, and third-party audits form the external validation backbone to cross-check on-chain claims.
+- **Audit & Validation** — Satellite, and third-party audits form the external validation backbone to cross-check on-chain claims.
 
 ---
 
@@ -137,7 +137,7 @@ A secure manufacturing process is required to prevent large-scale compromise. Ke
 
 - Node count (1 km spacing): ~100 nodes. Place gateways at strategic edge points to ensure ≤ 8 hops.
 - Hybrid densification: increase node density near high-risk points (villages, ridgelines) for redundancy.
-- Drone-based periodic audits: monthly or randomized quarterly passes for PoE validation.
+- Audits: Sattelite data for PoE validation.
 
 ---
 
@@ -146,9 +146,3 @@ A secure manufacturing process is required to prevent large-scale compromise. Ke
 ForestGuard builds a new paradigm for environmental stewardship: a tamper-resistant, incentive-driven ecology that financially rewards conservation and empowers independent verification. By making cheating more costly than honest participation, ForestGuard aligns economic incentives with planetary survival.
 
 ---
-
-## Appendices
-
-- Appendix A: Security & Anti-Cheating Pseudocode (device and gateway) — included.
-- Appendix B: Attestation Message Format (LoRa-friendly) — included.
-- Appendix C: Supply-Chain Checklist — included.
